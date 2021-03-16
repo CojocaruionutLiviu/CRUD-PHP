@@ -1,0 +1,5 @@
+-Creating a Page that display products from a Sql database named products, table products and containing 4 columns(id,Nume,Descriere,Pret).
+-A form that contains the inputs required to create a new product.
+-in the 4th column of the table containing the products there are two buttons:
+  -the first one "Editeza" fill the form with the products details from the database and swap the Save button with the Update one and on click post the new values on the databese
+  -the second one delete all the records of the row in the database.
